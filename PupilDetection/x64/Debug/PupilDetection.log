@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  PupilDetectionDlg.cpp
+c:\installed software\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\installed software\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\installed software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\installed software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\jucic\source\repos\studymfc\pupildetection\pupildetectiondlg.cpp(220): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  PupilDetection.cpp
+c:\installed software\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\installed software\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\installed software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\installed software\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+PupilDetectionDlg.obj : error LNK2001: 无法解析的外部符号 "public: static class CPupilDetectionDlg * CPupilDetectionDlg::A" (?A@CPupilDetectionDlg@@2PEAV1@EA)
+C:\Users\jucic\source\repos\studyMFC\x64\Debug\PupilDetection.exe : fatal error LNK1120: 1 个无法解析的外部命令
